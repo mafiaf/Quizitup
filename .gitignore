@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/node,visualstudiocode
 
-dist/build.js
+dist/game.js
 ### Node ###
 # Logs
 logs
