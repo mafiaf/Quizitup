@@ -1,6 +1,6 @@
-import { State } from "./interface";
-import { Question } from "./question";
-import { gameOptions } from "./util";
+import { State } from "../interface";
+import { Question } from "../question";
+import { gameOptions } from "../util";
 
 export class QuestionScene {
     private question: PIXI.Text;

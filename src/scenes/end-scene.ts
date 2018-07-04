@@ -1,6 +1,6 @@
-import { ResetButton } from "./reset-button";
-import { gameOptions } from "./util";
-import { State } from "./interface";
+import { ResetButton } from "../buttons/reset-button";
+import { gameOptions } from "../util";
+import { State } from "../interface";
 
 export class EndScene {
     private resetBtn: ResetButton;

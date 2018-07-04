@@ -1,6 +1,6 @@
-import { StartScene } from "./start-scene";
-import { QuestionScene } from "./question-scene";
-import { EndScene } from "./end-scene";
+import { StartScene } from "./scenes/start-scene";
+import { QuestionScene } from "./scenes/question-scene";
+import { EndScene } from "./scenes/end-scene";
 import { gameOptions } from "./util";
 import { State } from "./interface";
 

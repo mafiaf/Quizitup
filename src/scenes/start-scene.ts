@@ -1,6 +1,6 @@
-import { StartButton } from "./start-button";
-import { gameOptions } from "./util";
-import { State } from "./interface";
+import { StartButton } from "../buttons/start-button";
+import { gameOptions } from "../util";
+import { State } from "../interface";
 
 export class StartScene {
     private startBtn: StartButton;
