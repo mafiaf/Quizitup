@@ -19,7 +19,7 @@ Ook zijn de volgende onderdelen zichtbaar:
 
 
 ### Speel Quizitup via de volgende link:
-[Quizitup](https://0882916.github.io/DiskScape/)
+[Quizitup demo](https://stud.hosted.hr.nl/0919894/quizitup/)
 
 ## De spelregels
 Probeer zoveel mogelijk vragen goed te beantwoorden. Per goed beantwoorde vraag krijg je 10 punten. Per fout beantwoorde vraag gaan er 5 punten af.
